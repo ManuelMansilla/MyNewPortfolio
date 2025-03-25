@@ -41,4 +41,8 @@ mi-portfolio/
 
 ## Repositorio
 
-[Enlace al repositorio en GitHub](https://github.com/tuusuario/mi-portfolio)
+[Enlace al repositorio en GitHub](https://github.com/ManuelMansilla/MyNewPortfolio)
+
+## Página
+
+[Enlace a la página](https://manuelmansilla.github.io/MyNewPortfolio/)
